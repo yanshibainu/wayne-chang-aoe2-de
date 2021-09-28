@@ -1,6 +1,6 @@
 # Table of contents
 
-* [全文明戰術評析](README.md)
+* [全文明在重要地圖的戰術評析](README.md)
 * [前言](qian-yan.md)
 * [標準說明](biao-zhun-shui-ming.md)
 * [文明](wen-ming/README.md)
