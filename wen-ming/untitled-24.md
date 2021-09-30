@@ -11,7 +11,7 @@ description: "(3.5) \U0001F315\U0001F315\U0001F315\U0001F317"
 
 * **文明加成與科技樹**
 
-{% embed url="https://aoe2techtree.net/?lng=tw\#Britons" caption="" %}
+{% embed url="https://aoe2techtree.net/?lng=tw\#Huns" %}
 
 * **火山評分**
 
