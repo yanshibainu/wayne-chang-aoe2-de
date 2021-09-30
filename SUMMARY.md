@@ -11,11 +11,4 @@
   * [法蘭克 Franks](wen-ming/franks.md)
   * [哥德 Goths](wen-ming/goths.md)
   * [日本 Japanese](wen-ming/japanese.md)
-  * [範例](wen-ming/example.md)
-  * [範例](wen-ming/example1.md)
-  * [範例](wen-ming/example2.md)
-  * [範例](wen-ming/example3.md)
-  * [範例](wen-ming/example4.md)
-  * [範例](wen-ming/example5.md)
-
 
