@@ -1,5 +1,5 @@
 ---
-description: ver.51737    2021/10/01
+description: ver.54480    2021/10/10
 ---
 
 # 全文明戰術評析
