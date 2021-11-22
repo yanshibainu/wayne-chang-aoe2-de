@@ -1,6 +1,6 @@
 # Table of contents
 
-* [全文明戰術評析](README.md)
+* [世紀帝國2全文明戰術評析](README.md)
 * [前言](qian-yan.md)
 * [標準說明](biao-zhun-shui-ming.md)
 * [文明](wen-ming/README.md)
@@ -43,4 +43,3 @@
   * [西西里 Sicilians](wen-ming/untitled-2.md)
   * [波希米亞 Bohemians](wen-ming/untitled-1.md)
   * [波蘭 Poles](wen-ming/untitled.md)
-
